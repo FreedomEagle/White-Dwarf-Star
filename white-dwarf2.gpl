@@ -1,0 +1,8 @@
+unset key
+    set style data line
+    set title  "Problem 2"
+    set xlabel "radius"
+    set ylabel "mass"
+    set term png
+    set o "white-dwarf2.png" 
+    p [][0:] "res1" u 1:3
