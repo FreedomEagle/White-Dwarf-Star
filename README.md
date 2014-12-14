@@ -9,12 +9,12 @@
         
         
       `  1. **Fixd Central Density**
-![Alt text](http://imgur.com/ZiApnir)
+![Alt text](http://i.imgur.com/ZiApnir.png)
             As radius increases the density decreases and reaches its critical point at which point it neither decreases nor increase significantly
        
        
       `  2. **Changing Central Density**
-![Alt text](http://imgur.com/5kD1HG1)
+![Alt text](http://i.imgur.com/5kD1HG1.png)
             As radius increases the mass decreases and reaches its critical point at which point it neither decreases nor increase significantly
 
 
